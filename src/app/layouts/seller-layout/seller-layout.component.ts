@@ -13,7 +13,7 @@ import { AuthService } from '../../core/services/auth.service';
       <aside class="hidden lg:flex flex-col w-64 bg-white border-r border-earth-200 shadow-sm">
         <div class="p-6 border-b border-earth-200">
           <a routerLink="/" class="flex items-center gap-2 text-primary-600 font-extrabold text-xl">
-            <span class="material-icons">apartment</span> ArkaK
+            <span class="material-icons">apartment</span> Callix
           </a>
           <p class="text-xs text-gray-500 mt-1">Panel del Vendedor</p>
         </div>
@@ -63,7 +63,7 @@ import { AuthService } from '../../core/services/auth.service';
         <div class="absolute inset-0 bg-black/50" (click)="sidebarOpen = false"></div>
         <aside class="absolute left-0 top-0 bottom-0 w-64 bg-white shadow-xl animate-fade-in-up">
           <div class="p-6 border-b flex items-center justify-between">
-            <span class="text-primary-600 font-extrabold text-xl">ArkaK</span>
+            <span class="text-primary-600 font-extrabold text-xl">Callix</span>
             <button (click)="sidebarOpen = false"><span class="material-icons text-gray-500">close</span></button>
           </div>
           <nav class="p-4 space-y-1">

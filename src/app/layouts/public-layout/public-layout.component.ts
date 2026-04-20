@@ -15,7 +15,7 @@ import { AuthService } from '../../core/services/auth.service';
           <!-- Logo -->
           <a routerLink="/" class="flex items-center gap-2 text-primary-600 font-extrabold text-2xl tracking-tight">
             <span class="material-icons text-3xl">apartment</span>
-            ArkaK
+            Callix
           </a>
 
           <!-- Desktop Nav -->
@@ -86,7 +86,7 @@ import { AuthService } from '../../core/services/auth.service';
           <div class="md:col-span-1">
             <div class="flex items-center gap-2 text-2xl font-extrabold mb-4">
               <span class="material-icons text-primary-400">apartment</span>
-              ArkaK
+              Callix
             </div>
             <p class="text-primary-200 text-sm leading-relaxed">
               Tu hogar ideal te espera. Encuentra las mejores propiedades con la ayuda de agentes certificados.
@@ -119,7 +119,7 @@ import { AuthService } from '../../core/services/auth.service';
             <ul class="space-y-3 text-sm text-primary-200">
               <li class="flex items-center gap-2">
                 <span class="material-icons-outlined text-base">email</span>
-                contacto&#64;arkak.com
+                contacto&#64;callix.com
               </li>
               <li class="flex items-center gap-2">
                 <span class="material-icons-outlined text-base">phone</span>
@@ -146,7 +146,7 @@ import { AuthService } from '../../core/services/auth.service';
         </div>
 
         <div class="border-t border-primary-700 mt-12 pt-8 text-center text-sm text-primary-300">
-          © 2026 ArkaK. Todos los derechos reservados.
+          © 2026 Callix. Todos los derechos reservados.
         </div>
       </div>
     </footer>

@@ -12,5 +12,5 @@ import { ToastComponent } from './shared/components/toast/toast.component';
   `,
 })
 export class AppComponent {
-  title = 'ArkaK';
+  title = 'Callix';
 }

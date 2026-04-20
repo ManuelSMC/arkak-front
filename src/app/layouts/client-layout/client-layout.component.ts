@@ -14,7 +14,7 @@ import { AuthService } from '../../core/services/auth.service';
         <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="flex items-center justify-between h-16">
             <a routerLink="/cliente/inicio" class="flex items-center gap-2 text-primary-600 font-extrabold text-xl">
-              <span class="material-icons">apartment</span> ArkaK
+              <span class="material-icons">apartment</span> Callix
             </a>
 
             <div class="hidden md:flex items-center gap-6">

@@ -16,7 +16,7 @@ import { ToastService } from '../../../core/services/toast.service';
         <div class="text-center mb-8">
           <a routerLink="/" class="inline-flex items-center gap-2 text-primary-600 font-extrabold text-3xl">
             <span class="material-icons text-4xl">apartment</span>
-            ArkaK
+            Callix
           </a>
           <p class="text-gray-500 mt-2">Inicia sesión en tu cuenta</p>
         </div>

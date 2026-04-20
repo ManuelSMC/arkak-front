@@ -219,7 +219,7 @@ export class HomeComponent implements OnInit {
 
   testimonials = [
     { name: 'Ana García', role: 'Compradora', text: 'Encontré mi casa ideal en menos de una semana. El proceso de agendado de citas fue muy sencillo y el agente fue excelente.' },
-    { name: 'Roberto Martínez', role: 'Vendedor', text: 'Como vendedor, ArkaK me ha ayudado a conseguir más clientes potenciales. La gestión de mi agenda nunca fue tan fácil.' },
+    { name: 'Roberto Martínez', role: 'Vendedor', text: 'Como vendedor, Callix me ha ayudado a conseguir más clientes potenciales. La gestión de mi agenda nunca fue tan fácil.' },
     { name: 'Laura Sánchez', role: 'Inquilina', text: 'Rentar un departamento fue muy rápido. Me encantó poder comparar propiedades y ver los horarios disponibles al instante.' },
   ];
 

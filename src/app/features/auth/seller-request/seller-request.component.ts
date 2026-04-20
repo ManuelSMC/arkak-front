@@ -14,7 +14,7 @@ import { ToastService } from '../../../core/services/toast.service';
       <div class="w-full max-w-lg">
         <div class="text-center mb-8">
           <a routerLink="/" class="inline-flex items-center gap-2 text-primary-600 font-extrabold text-3xl">
-            <span class="material-icons text-4xl">apartment</span> ArkaK
+            <span class="material-icons text-4xl">apartment</span> Callix
           </a>
           <p class="text-gray-500 mt-2">Solicitud para ser vendedor</p>
         </div>
@@ -73,7 +73,7 @@ import { ToastService } from '../../../core/services/toast.service';
                 <label class="block text-sm font-medium text-gray-700 mb-1.5">Mensaje adicional</label>
                 <textarea [(ngModel)]="form.message" name="message" rows="2"
                           class="w-full px-4 py-3 border border-earth-200 rounded-xl text-sm focus:ring-2 focus:ring-primary-400 outline-none resize-none"
-                          placeholder="¿Por qué quieres unirte a ArkaK?"></textarea>
+                          placeholder="¿Por qué quieres unirte a Callix?"></textarea>
               </div>
               <button type="submit" [disabled]="loading"
                       class="w-full py-3 bg-primary-600 text-white rounded-xl font-semibold text-sm hover:bg-primary-700 transition-colors disabled:opacity-50">
